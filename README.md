@@ -30,7 +30,7 @@
 ![Screen Shot 2023-04-13 at 1 44 49 AM](https://user-images.githubusercontent.com/56138615/231664826-ebf39ba6-600d-45fd-a674-4c1b85ed7617.png)
 
 
-6. Another attack I try is the deletion of volume shadow copies. Not only do I want to detect this attack but also terminate the command before it is executed. I configured a response rule to do just that and showed that when I try the whoami command in the shell it fails sense the parent process was terminated.
+6. Another attack I tried is the deletion of volume shadow copies. Not only do I want to detect this attack but also terminate the command before it is executed. I configured a response rule to do just that and showed that when I try the whoami command in the shell it fails sense the parent process was terminated.
 
 ![Screen Shot 2023-04-13 at 2 03 44 AM](https://user-images.githubusercontent.com/56138615/231668865-8e920ffe-9b14-4bc1-8476-aa90c0a282e5.png)
 ![Screen Shot 2023-04-13 at 12 51 00 AM](https://user-images.githubusercontent.com/56138615/231668219-fe3ac613-1c64-479b-b4bd-0fcfb9dd5a17.png)
