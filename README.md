@@ -1,4 +1,4 @@
-# Randsomware_Simulation
+# Detecting and Defending Remote Attacks
 
 
 1. Started with a Kali Linux (Attack) and Windows (Victim) virtual machine in VMware.
